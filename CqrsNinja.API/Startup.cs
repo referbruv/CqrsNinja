@@ -36,7 +36,7 @@ namespace CqrsNinja
             // Register the Swagger generator, defining 1 or more Swagger documents
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "My API", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "CQRS Ninja API", Description = "CQRS Ninja is a boilerplate solution, built to demonstrate implementing Command Query Responsibility Segregation - CQRS in ASP.NET Core (.NET 6) via MediatR.", Version = "v1" });
             });
         }
 
@@ -57,7 +57,7 @@ namespace CqrsNinja
             // specifying the Swagger JSON endpoint.
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "CQRS Ninja API v1");
             });
 
             app.UseRouting();

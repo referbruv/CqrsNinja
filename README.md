@@ -22,7 +22,7 @@ This boilerplate is a perfect starter for developers looking to implement CQRS. 
 2. Implemented [UnitOfWork](https://referbruv.com/blog/posts/understanding-and-implementing-unitofwork-pattern-in-aspnet-core) with Generic Repository
 3. Preconfigured Entity Framework Core migrations with SQLite
 4. Segregated Commands and Queries with their Handlers
-5. Fluent Validation on the input model within the Command classes
+5. [Fluent Validation](https://referbruv.com/blog/posts/implementing-fluent-validation-in-aspnet-core-%28net-5%29-mvc) on the input model within the Command classes
 6. Preconfigured Swagger UI
 
 # Getting Started
@@ -31,7 +31,7 @@ To get started, follow the below steps:
 
 1. Install .NET 6 SDK
 2. Clone the Solution into your Local Directory
-3. Navigate to the CqrsNinja.Web directory
+3. Navigate to the CqrsNinja.API directory
 4. Run the solution
 
 Read the complete article to learn more:
