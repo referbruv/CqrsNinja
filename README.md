@@ -1,3 +1,5 @@
+![banner](assets/banner.png?raw=true)
+
 # CQRS Ninja - ASP.NET Core Boilerplate
 
 CQRS Ninja is a boilerplate solution, built to demonstrate implementing Command Query Responsibility Segregation - CQRS in ASP.NET Core (.NET 6) via MediatR.
@@ -36,7 +38,7 @@ To get started, follow the below steps:
 
 Read the complete article to learn more:
 
-![Implementing CQRS using Mediator in ASP.NET Core](https://referbruv.com/blog/posts/implementing-cqrs-using-mediator-in-aspnet-core-explained)
+[Implementing CQRS using Mediator in ASP.NET Core](https://referbruv.com/blog/posts/implementing-cqrs-using-mediator-in-aspnet-core-explained)
 
 # Issues or Ideas?
 
