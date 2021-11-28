@@ -18,7 +18,7 @@ CQRS stands for Command Query Responsibility Segregation. It is an Architectural
 
 # About the Boilerplate
 
-This boilerplate is a perfect starter for developers looking to implement CQRS. It also helps beginners better understand the concept of CQRS and how its implemented, while keeping the code simple. The solution offers the following:
+This boilerplate is a perfect starter for developers looking to implement CQRS. It also helps beginners better understand the concept of CQRS and how its implemented, while keeping the code simple.
 
 # What do you get?
 
