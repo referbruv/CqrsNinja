@@ -20,6 +20,8 @@ CQRS stands for Command Query Responsibility Segregation. It is an Architectural
 
 This boilerplate is a perfect starter for developers looking to implement CQRS. It also helps beginners better understand the concept of CQRS and how its implemented, while keeping the code simple. The solution offers the following:
 
+# What do you get?
+
 1. Clean Architecture with well-defined layers for API, Persistence, Core, Contracts and Migrations
 2. Implemented [UnitOfWork](https://referbruv.com/blog/posts/understanding-and-implementing-unitofwork-pattern-in-aspnet-core) with Generic Repository
 3. Preconfigured Entity Framework Core migrations with SQLite
